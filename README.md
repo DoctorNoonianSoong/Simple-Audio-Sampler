@@ -1,5 +1,6 @@
 # Simple-Audio-Sampler
-Creates amplitude samples of a quarter sound wave of given frequency
+Creates amplitude samples of a quarter sound wave of given frequency.
+
 Tested on Python 3.6.0b2
 
 The first argument (mandatory) is the frequency of a single tone/note.
